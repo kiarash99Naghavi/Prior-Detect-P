@@ -2,7 +2,7 @@
 
 This repository contains the full prompts used by the Foundation Models in **Prior-Detect**, a zero-shot framework for image-based defect classification in manufacturing under site-to-site concept drift.
 
-> K. Naghavi Khanghah, A. Patel, Q. Yang, R. Malhotra, H. Xu. *Prior-Detect: Zero-Shot Expertise-Agnostic Process Monitoring Under Site-to-Site Concept Drift.* Submitted to the 55th SME North American Manufacturing Research Conference (NAMRC 55), Manufacturing Letters. *Under review.*
+> K. Naghavi Khanghah, A. Patel, Q. Yang, R. Malhotra, H. Xu. *Prior-Detect: Zero-Shot Expertise-Agnostic Process Monitoring Under Site-to-Site Concept Drift.* Submitted to the 55th SME North American Manufacturing Research Conference (NAMRC 55), Manufacturing Letters (submitted).
 
 The conference paper had no room for the prompt tables, so all of them are collected here. Each prompt is in its own Markdown file in [`prompts/`](prompts/).
 
